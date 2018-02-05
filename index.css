@@ -27,7 +27,7 @@ td.banna:hover{
 	font-weight:bold;
 }
 td.ora:hover{
-	background-image:url(Orange.jpg);
+	background-image:url(orange.jpg);
 	height:200px;
 	color:#1e41db;
 	font-weight:bold;
@@ -40,31 +40,31 @@ td.pine:hover{
 	background-size:200px 200px;
 }
 td.alm:hover{
-	background-image:url(Almond.jpg);
+	background-image:url(almond.jpg);
 	height:200px;
 	color:#1e41db;
 	font-weight:bold;
 }
 td.pap:hover{
-	background-image:url(Papaya.jpg);
+	background-image:url(papaya.jpg);
 	height:200px;
 	color:#1e41db;
 	font-weight:bold;
 }
 td.water:hover{
-	background-image:url(Watermelon.jpg);
+	background-image:url(watermelon.jpg);
 	height:200px;
 	color:white;
 	font-weight:bold;
 }
 td.gra:hover{
-	background-image:url(Grapes.jpg);
+	background-image:url(grapes.jpg);
 	height:200px;
 	color:#1e41db;
 	font-weight:bold;
 }
 td.guv:hover{
-	background-image:url(Guvava.jpg);
+	background-image:url(guvava.jpg);
 	height:200px;
 	color:#1e41db;
 	font-weight:bold;
