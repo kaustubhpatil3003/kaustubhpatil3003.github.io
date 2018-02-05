@@ -15,7 +15,7 @@ td:hover{
 	border: 3px outset red;
 }
 td.apple:hover{
-	background-image:url(apple.jpg);
+	background-image:url(Apple.jpg);
 	height:200px;
 	color:#b2b2b2;
 	font-weight:bold;
@@ -27,7 +27,7 @@ td.banna:hover{
 	font-weight:bold;
 }
 td.ora:hover{
-	background-image:url(orange.jpg);
+	background-image:url(Orange.jpg);
 	height:200px;
 	color:#1e41db;
 	font-weight:bold;
@@ -46,25 +46,25 @@ td.alm:hover{
 	font-weight:bold;
 }
 td.pap:hover{
-	background-image:url(papaya.jpg);
+	background-image:url(Papaya.jpg);
 	height:200px;
 	color:#1e41db;
 	font-weight:bold;
 }
 td.water:hover{
-	background-image:url(watermelon.jpg);
+	background-image:url(Watermelon.jpg);
 	height:200px;
 	color:white;
 	font-weight:bold;
 }
 td.gra:hover{
-	background-image:url(grapes.jpg);
+	background-image:url(Grapes.jpg);
 	height:200px;
 	color:#1e41db;
 	font-weight:bold;
 }
 td.guv:hover{
-	background-image:url(guvava.jpg);
+	background-image:url(Guvava.jpg);
 	height:200px;
 	color:#1e41db;
 	font-weight:bold;
